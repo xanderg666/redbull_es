@@ -328,3 +328,13 @@ TermSocket.open: Opened 1
 [W 2021-10-15 19:50:18.489 ServerApp] Notebook beginners_espanol/02.Data_Preparation_merging.ipynb is not trusted
 [I 2021-10-15 20:06:19.809 ServerApp] Saving file at /beginners_espanol/02.Data_Preparation_merging.ipynb
 [W 2021-10-15 20:06:19.809 ServerApp] Notebook beginners_espanol/02.Data_Preparation_merging.ipynb is not trusted
+Websocket closed
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[W 2021-10-15 20:15:09.369 ServerApp] Notebook beginners_espanol/02.Data_Preparation_merging.ipynb is not trusted
+[I 2021-10-15 20:15:18.415 ServerApp] Saving file at /beginners_espanol/02.Data_Preparation_merging.ipynb
+[W 2021-10-15 20:15:18.416 ServerApp] Notebook beginners_espanol/02.Data_Preparation_merging.ipynb is not trusted
+[I 2021-10-15 20:27:18.711 ServerApp] Saving file at /beginners_espanol/02.Data_Preparation_merging.ipynb
+[W 2021-10-15 20:27:18.712 ServerApp] Notebook beginners_espanol/02.Data_Preparation_merging.ipynb is not trusted
+[I 2021-10-15 20:28:05.764 ServerApp] Saving file at /beginners_espanol/02.Data_Preparation_merging.ipynb
+[W 2021-10-15 20:28:05.765 ServerApp] Notebook beginners_espanol/02.Data_Preparation_merging.ipynb is not trusted
