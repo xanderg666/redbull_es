@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "0.0.0.0",
+  "password": true,
+  "pid": 1278,
+  "port": 8001,
+  "root_dir": "/home/opc",
+  "secure": false,
+  "sock": "",
+  "token": "",
+  "url": "http://redbulllab1:8001/",
+  "version": "1.10.1"
+}

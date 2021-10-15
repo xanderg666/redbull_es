@@ -1,0 +1,330 @@
+[I 2021-10-12 23:56:41.007 ServerApp] jupyterlab | extension was successfully linked.
+[I 2021-10-12 23:56:41.673 ServerApp] jupyter_nbextensions_configurator | extension was found and enabled by nbclassic. Consider moving the extension to Jupyter Server's extension paths.
+[I 2021-10-12 23:56:41.673 ServerApp] jupyter_nbextensions_configurator | extension was successfully linked.
+[I 2021-10-12 23:56:41.673 ServerApp] nbclassic | extension was successfully linked.
+[I 2021-10-12 23:56:41.719 ServerApp] nbclassic | extension was successfully loaded.
+[I 2021-10-12 23:56:41.719 ServerApp] [jupyter_nbextensions_configurator] enabled 0.4.1
+[I 2021-10-12 23:56:41.720 ServerApp] jupyter_nbextensions_configurator | extension was successfully loaded.
+[I 2021-10-12 23:56:41.721 LabApp] JupyterLab extension loaded from /home/opc/redbullenv/lib/python3.6/site-packages/jupyterlab
+[I 2021-10-12 23:56:41.721 LabApp] JupyterLab application directory is /home/opc/redbullenv/share/jupyter/lab
+[I 2021-10-12 23:56:41.725 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2021-10-12 23:56:41.726 ServerApp] Serving notebooks from local directory: /home/opc
+[I 2021-10-12 23:56:41.726 ServerApp] Jupyter Server 1.10.1 is running at:
+[I 2021-10-12 23:56:41.726 ServerApp] http://redbulllab1:8001/lab
+[I 2021-10-12 23:56:41.726 ServerApp]  or http://127.0.0.1:8001/lab
+[I 2021-10-12 23:56:41.726 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2021-10-12 23:56:41.733 ServerApp] No web browser found: could not locate runnable browser.
+[I 2021-10-13 00:02:07.174 LabApp] 302 GET /lab (152.200.140.50) 2.11ms
+[W 2021-10-13 00:02:13.421 ServerApp] 401 POST /login?next=%2Flab (152.200.140.50) 71.79ms referer=http://158.101.125.220:8001/login?next=%2Flab
+[I 2021-10-13 00:02:26.173 ServerApp] 302 POST /login?next=%2Flab (152.200.140.50) 57.04ms
+[W 2021-10-13 00:02:31.323 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2021-10-13 00:02:32.498 ServerApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:02:32.500 ServerApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:02:32.532 ServerApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:02:32.534 ServerApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:02:32.668 ServerApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:02:32.684 ServerApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:02:32.694 ServerApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:02:32.707 ServerApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:02:32.765 ServerApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:02:32.766 ServerApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:02:32.797 ServerApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:02:32.809 ServerApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:02:32.887 ServerApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:02:32.914 ServerApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:02:32.939 ServerApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:02:32.961 ServerApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:02:33.081 ServerApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:02:33.094 ServerApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:02:33.120 ServerApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:02:33.133 ServerApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:02:33.673 ServerApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:02:33.698 ServerApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:02:33.774 ServerApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:02:33.791 ServerApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:02:33.938 ServerApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:02:33.999 ServerApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:02:34.023 ServerApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:02:34.064 ServerApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:02:34.092 ServerApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:02:34.114 ServerApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:02:34.142 ServerApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:02:34.189 ServerApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:02:34.217 ServerApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:02:34.269 ServerApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:02:34.548 ServerApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:02:34.604 ServerApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[I 2021-10-13 00:02:59.945 ServerApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[W 2021-10-13 00:41:09.449 ServerApp] Notebook redbull_es/beginners_espanol/01_0.Formule1_Data_Collection.ipynb is not trusted
+[I 2021-10-13 00:41:13.316 ServerApp] Kernel started: 6c68dfa6-7c82-45dc-bae4-68549ce1a70f
+[W 2021-10-13 00:50:11.456 ServerApp] Notebook beginners_espanol/01_0.Formule1_Data_Collection.ipynb is not trusted
+[I 2021-10-13 00:50:15.528 ServerApp] Kernel started: 39c77a68-cc87-482e-a54a-2a3be79ebc0e
+[I 2021-10-13 00:52:15.967 ServerApp] Saving file at /beginners_espanol/01_0.Formule1_Data_Collection.ipynb
+[I 2021-10-13 00:52:49.192 ServerApp] Starting buffering for 39c77a68-cc87-482e-a54a-2a3be79ebc0e:4a2c03a5-cd54-4715-8957-6730e24f85d8
+[I 2021-10-13 00:54:39.914 ServerApp] Starting buffering for 39c77a68-cc87-482e-a54a-2a3be79ebc0e:be08d4fd-72f5-4665-a128-e135ef3b9e34
+[I 2021-10-13 00:54:39.915 ServerApp] Starting buffering for 6c68dfa6-7c82-45dc-bae4-68549ce1a70f:a71a3d5c-8b48-4261-8787-317c018d57f1
+Websocket closed
+[W 2021-10-13 00:55:00.589 LabApp] Could not determine jupyterlab build status without nodejs
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[W 2021-10-13 00:55:01.430 ServerApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:55:01.451 ServerApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:55:01.472 ServerApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:55:01.507 ServerApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:55:01.816 ServerApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:55:01.834 ServerApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:55:01.853 ServerApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:55:01.868 ServerApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:55:01.896 ServerApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:55:01.920 ServerApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:55:01.943 ServerApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:55:01.973 ServerApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:55:02.018 ServerApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:55:02.044 ServerApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:55:02.071 ServerApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:55:02.101 ServerApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:55:02.195 ServerApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:55:02.221 ServerApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:55:02.297 ServerApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:55:02.316 ServerApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:55:02.846 ServerApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:55:02.873 ServerApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:55:02.913 ServerApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:55:02.936 ServerApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:55:03.099 ServerApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:55:03.158 ServerApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:55:03.181 ServerApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:55:03.223 ServerApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:55:03.249 ServerApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:55:03.269 ServerApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:55:03.296 ServerApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:55:03.339 ServerApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:55:03.365 ServerApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:55:03.417 ServerApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:55:03.649 ServerApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 00:55:03.705 ServerApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 01:18:44.649 ServerApp] Notebook beginners_espanol/01_1.Weather_Data_Collection.ipynb is not trusted
+[I 2021-10-13 01:18:50.078 ServerApp] Kernel started: c394a084-a3cc-4529-9fd6-ac957cba70b9
+[I 2021-10-13 01:19:06.328 ServerApp] Starting buffering for 39c77a68-cc87-482e-a54a-2a3be79ebc0e:05b27299-f74a-48c9-9f18-db6fb0c3f830
+[W 2021-10-13 01:31:11.863 ServerApp] Notebook beginners_espanol/01_0.Formule1_Data_Collection.ipynb is not trusted
+[I 2021-10-13 01:33:27.489 ServerApp] Saving file at /beginners_espanol/01_0.Formule1_Data_Collection.ipynb
+[W 2021-10-13 01:33:27.490 ServerApp] Notebook beginners_espanol/01_0.Formule1_Data_Collection.ipynb is not trusted
+[I 2021-10-13 01:49:29.253 ServerApp] Saving file at /beginners_espanol/01_0.Formule1_Data_Collection.ipynb
+[W 2021-10-13 01:49:29.254 ServerApp] Notebook beginners_espanol/01_0.Formule1_Data_Collection.ipynb is not trusted
+[I 2021-10-13 01:50:15.655 ServerApp] Saving file at /beginners_espanol/01_0.Formule1_Data_Collection.ipynb
+[W 2021-10-13 01:50:15.656 ServerApp] Notebook beginners_espanol/01_0.Formule1_Data_Collection.ipynb is not trusted
+[I 2021-10-13 02:22:02.719 ServerApp] Saving file at /beginners_espanol/01_0.Formule1_Data_Collection.ipynb
+[W 2021-10-13 02:22:02.720 ServerApp] Notebook beginners_espanol/01_0.Formule1_Data_Collection.ipynb is not trusted
+[I 2021-10-13 02:22:04.125 ServerApp] Saving file at /beginners_espanol/01_0.Formule1_Data_Collection.ipynb
+[W 2021-10-13 02:22:04.126 ServerApp] Notebook beginners_espanol/01_0.Formule1_Data_Collection.ipynb is not trusted
+[I 2021-10-13 02:39:36.790 ServerApp] Starting buffering for 39c77a68-cc87-482e-a54a-2a3be79ebc0e:27c62296-2b49-4113-b759-f012fe4dca9e
+[I 2021-10-13 02:40:52.999 ServerApp] Starting buffering for c394a084-a3cc-4529-9fd6-ac957cba70b9:69434f2d-f735-410c-a819-c7e0639dd5a1
+Websocket closed
+[I 2021-10-13 05:30:35.453 ServerApp] 302 GET / (103.203.58.4) 1.05ms
+[I 2021-10-13 11:15:48.317 ServerApp] 302 GET / (132.145.54.7) 1.72ms
+[W 2021-10-13 11:15:54.157 ServerApp] 404 GET /flumemaster.jsp (132.145.54.7) 20.84ms referer=None
+[I 2021-10-13 11:15:54.159 ServerApp] 302 GET / (132.145.54.7) 1.75ms
+[W 2021-10-13 11:15:54.159 ServerApp] 403 POST / (132.145.54.7): '_xsrf' argument missing from POST
+[W 2021-10-13 11:15:54.160 ServerApp] 403 POST / (132.145.54.7) 1.97ms referer=None
+[I 2021-10-13 11:15:54.160 ServerApp] 302 GET / (132.145.54.7) 2.04ms
+[W 2021-10-13 11:15:54.163 ServerApp] 404 GET /browseDirectory.jsp (132.145.54.7) 3.10ms referer=None
+[W 2021-10-13 11:15:54.165 ServerApp] 404 GET /ui (132.145.54.7) 4.01ms referer=None
+[W 2021-10-13 11:15:54.166 ServerApp] 404 HEAD /trace (132.145.54.7) 4.92ms referer=None
+[W 2021-10-13 11:15:54.167 ServerApp] 404 GET /dfshealth.jsp (132.145.54.7) 5.96ms referer=None
+[W 2021-10-13 11:15:54.169 ServerApp] 404 GET /.git/HEAD (132.145.54.7) 6.87ms referer=None
+[W 2021-10-13 11:15:54.172 ServerApp] 404 GET /admin/info/config (132.145.54.7) 3.51ms referer=None
+[W 2021-10-13 11:15:54.173 ServerApp] 403 POST /sdk (132.145.54.7): '_xsrf' argument missing from POST
+[W 2021-10-13 11:15:54.174 ServerApp] 403 POST /sdk (132.145.54.7) 4.75ms referer=None
+[W 2021-10-13 11:15:54.175 ServerApp] 404 GET /jobtracker.jsp (132.145.54.7) 5.68ms referer=None
+[W 2021-10-13 11:15:54.176 ServerApp] 404 GET /opc/v1/instance (132.145.54.7) 6.56ms referer=None
+[W 2021-10-13 11:15:54.178 ServerApp] 404 GET /console/images/%252E%252E%252Fconsole.portal (132.145.54.7) 7.64ms referer=None
+[W 2021-10-13 11:15:54.179 ServerApp] 404 GET /nmaplowercheck1634123754 (132.145.54.7) 8.56ms referer=None
+[W 2021-10-13 11:15:54.180 ServerApp] 404 GET /master.jsp (132.145.54.7) 9.45ms referer=None
+[I 2021-10-13 11:15:54.400 LabApp] 302 GET /lab? (132.145.54.7) 1.39ms
+[I 2021-10-13 11:15:54.403 ServerApp] 302 GET / (132.145.54.7) 1.89ms
+[W 2021-10-13 11:15:54.404 ServerApp] 404 GET /opc/v1/identity (132.145.54.7) 3.03ms referer=None
+[W 2021-10-13 11:15:54.406 ServerApp] 404 GET /console/images/%252e%252e%252fconsole.portal (132.145.54.7) 4.06ms referer=None
+[W 2021-10-13 11:15:54.407 ServerApp] 404 GET /api/spec.json (132.145.54.7) 4.99ms referer=None
+[W 2021-10-13 11:15:54.408 ServerApp] 404 GET /HNAP1 (132.145.54.7) 5.99ms referer=None
+[W 2021-10-13 11:15:54.454 ServerApp] 404 HEAD /health (132.145.54.7) 3.06ms referer=None
+[W 2021-10-13 11:15:54.456 ServerApp] 405 PROPFIND / (132.145.54.7) 1.66ms referer=None
+[W 2021-10-13 11:15:54.458 ServerApp] 404 GET /rs-status (132.145.54.7) 2.80ms referer=None
+[W 2021-10-13 11:15:54.458 ServerApp] 405 OPTIONS / (132.145.54.7) 2.95ms referer=None
+[W 2021-10-13 11:15:54.460 ServerApp] 404 GET /tasktracker.jsp (132.145.54.7) 4.12ms referer=None
+[W 2021-10-13 11:15:54.461 ServerApp] 405 OPTIONS / (132.145.54.7) 0.96ms referer=None
+[W 2021-10-13 11:15:54.461 ServerApp] 405 PROPFIND / (132.145.54.7) 1.11ms referer=None
+[W 2021-10-13 11:15:54.462 ServerApp] 405 OPTIONS / (132.145.54.7) 0.78ms referer=None
+[W 2021-10-13 11:15:54.665 ServerApp] 404 GET /spec/api.json (132.145.54.7) 3.28ms referer=None
+[W 2021-10-13 11:15:54.670 ServerApp] 404 GET /console/css/%252E%252E%252Fconsole.portal (132.145.54.7) 3.39ms referer=None
+[W 2021-10-13 11:15:54.670 ServerApp] 405 NEGF / (132.145.54.7) 3.38ms referer=None
+[W 2021-10-13 11:15:54.671 ServerApp] 405 PROPFIND / (132.145.54.7) 3.74ms referer=None
+[W 2021-10-13 11:15:54.673 ServerApp] 405 OPTIONS / (132.145.54.7) 1.36ms referer=None
+[W 2021-10-13 11:15:54.674 ServerApp] 404 GET /status.jsp (132.145.54.7) 2.37ms referer=None
+[W 2021-10-13 11:15:54.675 ServerApp] 404 GET /robots.txt (132.145.54.7) 3.40ms referer=None
+[W 2021-10-13 11:15:54.714 ServerApp] 404 HEAD /loggers (132.145.54.7) 1.45ms referer=None
+[I 2021-10-13 11:15:54.715 ServerApp] 302 GET / (132.145.54.7) 0.56ms
+[W 2021-10-13 11:15:54.880 ServerApp] 404 GET /console/css/%252e%252e%252fconsole.portal (132.145.54.7) 2.68ms referer=None
+[I 2021-10-13 11:15:54.881 ServerApp] 302 GET / (132.145.54.7) 0.87ms
+[W 2021-10-13 11:15:54.882 ServerApp] 405 OPTIONS / (132.145.54.7) 0.98ms referer=None
+[I 2021-10-13 11:15:54.928 LabApp] 302 GET /lab? (132.145.54.7) 0.85ms
+[W 2021-10-13 11:15:54.983 ServerApp] 405 HEAD /metrics (132.145.54.7) 3.25ms referer=None
+[W 2021-10-13 11:15:55.086 ServerApp] 405 HEAD / (132.145.54.7) 1.06ms referer=None
+[W 2021-10-13 11:15:55.086 ServerApp] 405 OPTIONS / (132.145.54.7) 1.31ms referer=None
+[W 2021-10-13 11:15:55.236 ServerApp] 404 HEAD /autoconfig (132.145.54.7) 1.81ms referer=None
+[W 2021-10-13 11:15:55.286 ServerApp] 405 OPTIONS / (132.145.54.7) 0.70ms referer=None
+[W 2021-10-13 11:15:55.337 ServerApp] 403 POST / (132.145.54.7): '_xsrf' argument missing from POST
+[W 2021-10-13 11:15:55.337 ServerApp] 403 POST / (132.145.54.7) 1.14ms referer=None
+[W 2021-10-13 11:15:55.489 ServerApp] 404 HEAD /heapdump (132.145.54.7) 1.83ms referer=None
+[W 2021-10-13 11:15:55.490 ServerApp] 405 OPTIONS / (132.145.54.7) 0.66ms referer=None
+[W 2021-10-13 11:15:55.538 ServerApp] 405 OPTIONS / (132.145.54.7) 0.67ms referer=None
+[W 2021-10-13 11:15:55.682 ServerApp] 405 OPTIONS / (132.145.54.7) 0.77ms referer=None
+[W 2021-10-13 11:15:55.733 ServerApp] 404 HEAD /threaddump (132.145.54.7) 1.72ms referer=None
+[W 2021-10-13 11:15:55.884 ServerApp] 405 OPTIONS / (132.145.54.7) 0.80ms referer=None
+[W 2021-10-13 11:15:55.985 ServerApp] 404 HEAD /env (132.145.54.7) 2.27ms referer=None
+[W 2021-10-13 11:15:56.075 ServerApp] 405 OPTIONS / (132.145.54.7) 0.77ms referer=None
+[W 2021-10-13 11:15:56.227 ServerApp] 404 HEAD /info (132.145.54.7) 1.81ms referer=None
+[W 2021-10-13 11:15:56.451 ServerApp] 404 HEAD /dump (132.145.54.7) 1.81ms referer=None
+[W 2021-10-13 11:15:56.692 ServerApp] 404 HEAD /configprops (132.145.54.7) 1.76ms referer=None
+[W 2021-10-13 11:15:56.963 ServerApp] 404 HEAD /mappings (132.145.54.7) 1.96ms referer=None
+[W 2021-10-13 11:15:57.194 ServerApp] 404 HEAD /auditevents (132.145.54.7) 1.81ms referer=None
+[W 2021-10-13 11:15:57.378 ServerApp] 404 HEAD /beans (132.145.54.7) 1.81ms referer=None
+[W 2021-10-13 11:15:57.561 ServerApp] 404 HEAD /jolokia (132.145.54.7) 1.82ms referer=None
+[W 2021-10-13 11:15:57.746 ServerApp] 404 HEAD /cloudfoundryapplication (132.145.54.7) 1.82ms referer=None
+[W 2021-10-13 11:15:57.932 ServerApp] 404 HEAD /hystrix.stream (132.145.54.7) 1.87ms referer=None
+[W 2021-10-13 11:15:58.115 ServerApp] 404 HEAD /actuator (132.145.54.7) 1.85ms referer=None
+[W 2021-10-13 11:15:58.299 ServerApp] 404 HEAD /actuator/auditevents (132.145.54.7) 1.84ms referer=None
+[W 2021-10-13 11:15:58.483 ServerApp] 404 HEAD /actuator/beans (132.145.54.7) 1.85ms referer=None
+[W 2021-10-13 11:15:58.666 ServerApp] 404 HEAD /actuator/health (132.145.54.7) 1.81ms referer=None
+[W 2021-10-13 11:15:58.849 ServerApp] 404 HEAD /actuator/conditions (132.145.54.7) 1.78ms referer=None
+[W 2021-10-13 11:15:59.034 ServerApp] 404 HEAD /actuator/configprops (132.145.54.7) 1.83ms referer=None
+[W 2021-10-13 11:15:59.219 ServerApp] 404 HEAD /actuator/env (132.145.54.7) 1.85ms referer=None
+[W 2021-10-13 11:15:59.404 ServerApp] 404 HEAD /actuator/info (132.145.54.7) 1.87ms referer=None
+[W 2021-10-13 11:15:59.590 ServerApp] 404 HEAD /actuator/loggers (132.145.54.7) 1.86ms referer=None
+[W 2021-10-13 11:15:59.776 ServerApp] 404 HEAD /actuator/heapdump (132.145.54.7) 1.78ms referer=None
+[W 2021-10-13 11:15:59.961 ServerApp] 404 HEAD /actuator/threaddump (132.145.54.7) 1.86ms referer=None
+[W 2021-10-13 11:16:00.146 ServerApp] 404 HEAD /actuator/metrics (132.145.54.7) 1.80ms referer=None
+[W 2021-10-13 11:16:00.330 ServerApp] 404 HEAD /actuator/scheduledtasks (132.145.54.7) 1.81ms referer=None
+[W 2021-10-13 11:16:00.512 ServerApp] 404 HEAD /actuator/httptrace (132.145.54.7) 1.78ms referer=None
+[W 2021-10-13 11:16:00.691 ServerApp] 404 HEAD /actuator/mappings (132.145.54.7) 1.85ms referer=None
+[W 2021-10-13 11:16:00.868 ServerApp] 404 HEAD /actuator/jolokia (132.145.54.7) 1.87ms referer=None
+[W 2021-10-13 11:16:01.046 ServerApp] 404 HEAD /actuator/hystrix.stream (132.145.54.7) 1.87ms referer=None
+[I 2021-10-13 11:16:01.534 ServerApp] 302 GET / (132.145.54.7) 0.83ms
+[I 2021-10-13 11:16:01.709 LabApp] 302 GET /lab? (132.145.54.7) 0.94ms
+[I 2021-10-13 11:16:02.369 ServerApp] 302 GET / (132.145.54.7) 0.79ms
+[I 2021-10-13 11:16:02.460 LabApp] 302 GET /lab? (132.145.54.7) 0.83ms
+[W 2021-10-13 22:34:24.840 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2021-10-13 22:34:25.640 ServerApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 22:34:25.664 ServerApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[W 2021-10-13 22:34:25.745 ServerApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 22:34:25.771 ServerApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 22:34:25.935 ServerApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 22:34:25.954 ServerApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 22:34:25.965 ServerApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 22:34:25.976 ServerApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 22:34:26.031 ServerApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 22:34:26.048 ServerApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 22:34:26.065 ServerApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 22:34:26.083 ServerApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 22:34:26.144 ServerApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 22:34:26.156 ServerApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 22:34:26.174 ServerApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 22:34:26.214 ServerApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 22:34:26.321 ServerApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 22:34:26.335 ServerApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 22:34:26.362 ServerApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 22:34:26.384 ServerApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 22:34:26.852 ServerApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 22:34:26.867 ServerApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 22:34:27.029 ServerApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 22:34:27.055 ServerApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 22:34:27.167 ServerApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 22:34:27.240 ServerApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 22:34:27.277 ServerApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 22:34:27.303 ServerApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 22:34:27.326 ServerApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 22:34:27.388 ServerApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 22:34:27.408 ServerApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 22:34:27.428 ServerApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 22:34:27.470 ServerApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 22:34:27.542 ServerApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 22:34:27.713 ServerApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 22:34:27.799 ServerApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-13 22:44:26.825 ServerApp] Notebook beginners_espanol/01_1.Weather_Data_Collection.ipynb is not trusted
+[I 2021-10-13 22:44:31.865 ServerApp] Starting buffering for c394a084-a3cc-4529-9fd6-ac957cba70b9:db805c86-f050-4bc5-a038-28965022f06c
+[W 2021-10-13 22:45:20.248 ServerApp] Notebook beginners_espanol/01_0.Formule1_Data_Collection.ipynb is not trusted
+[I 2021-10-13 22:51:05.855 ServerApp] Starting buffering for 39c77a68-cc87-482e-a54a-2a3be79ebc0e:d627dc3b-f59f-4f3f-a49c-a75e9ac44d3c
+[W 2021-10-13 22:51:16.708 ServerApp] Notebook beginners_espanol/01_1.Weather_Data_Collection.ipynb is not trusted
+[I 2021-10-13 22:53:17.867 ServerApp] Saving file at /beginners_espanol/01_1.Weather_Data_Collection.ipynb
+[W 2021-10-13 22:53:17.867 ServerApp] Notebook beginners_espanol/01_1.Weather_Data_Collection.ipynb is not trusted
+[I 2021-10-13 22:55:18.269 ServerApp] Saving file at /beginners_espanol/01_1.Weather_Data_Collection.ipynb
+[W 2021-10-13 22:55:18.269 ServerApp] Notebook beginners_espanol/01_1.Weather_Data_Collection.ipynb is not trusted
+[I 2021-10-13 22:56:57.927 ServerApp] Starting buffering for c394a084-a3cc-4529-9fd6-ac957cba70b9:0954fce1-4d2a-487a-b69e-f9a49d06cabc
+Websocket closed
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[W 2021-10-13 23:00:35.890 ServerApp] Notebook beginners_espanol/01_2.Qualifying_Data_Collection.ipynb is not trusted
+[I 2021-10-13 23:00:38.756 ServerApp] Kernel started: 7a355b0b-629a-4165-9a58-8ba9e10588ea
+[I 2021-10-14 00:58:41.726 ServerApp] Starting buffering for 7a355b0b-629a-4165-9a58-8ba9e10588ea:00bf5eff-1e91-4999-afe5-f6a7ce01d3f6
+Websocket closed
+[I 2021-10-14 03:36:38.970 ServerApp] 302 GET / (185.180.143.13) 0.82ms
+[I 2021-10-14 03:36:39.034 LabApp] 302 GET /lab? (185.180.143.13) 1.11ms
+[I 2021-10-14 12:54:03.082 ServerApp] 302 GET / (185.142.236.34) 1.51ms
+[I 2021-10-14 12:54:03.329 LabApp] 302 GET /lab (185.142.236.34) 1.15ms
+[I 2021-10-14 12:54:12.091 ServerApp] 302 GET / (34.140.248.32) 0.64ms
+[W 2021-10-15 00:48:30.004 ServerApp] 404 GET http://fuwu.sogou.com/404/index.html (222.186.19.235) 5.27ms referer=None
+[W 2021-10-15 00:48:30.006 ServerApp] 404 GET http://fuwu.sogou.com/404/index.html (222.186.19.235) 4.96ms referer=None
+[I 2021-10-15 04:05:41.458 ServerApp] 302 GET / (159.89.194.175) 1.50ms
+[I 2021-10-15 04:06:02.285 ServerApp] 302 GET / (154.89.5.37) 0.81ms
+[I 2021-10-15 04:06:02.715 LabApp] 302 GET /lab? (154.89.5.37) 1.34ms
+[W 2021-10-15 19:47:32.270 LabApp] Could not determine jupyterlab build status without nodejs
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[W 2021-10-15 19:47:33.188 ServerApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-15 19:47:33.214 ServerApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-15 19:47:33.241 ServerApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-15 19:47:33.264 ServerApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-15 19:47:33.428 ServerApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-15 19:47:33.446 ServerApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-15 19:47:33.456 ServerApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-15 19:47:33.467 ServerApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-15 19:47:33.519 ServerApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-15 19:47:33.529 ServerApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-15 19:47:33.556 ServerApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-15 19:47:33.565 ServerApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-15 19:47:33.654 ServerApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-15 19:47:33.666 ServerApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-15 19:47:33.684 ServerApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-15 19:47:33.701 ServerApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-15 19:47:33.832 ServerApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-15 19:47:33.846 ServerApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-15 19:47:33.882 ServerApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-15 19:47:33.903 ServerApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-15 19:47:34.554 ServerApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-15 19:47:34.565 ServerApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-15 19:47:34.579 ServerApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-15 19:47:34.588 ServerApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-15 19:47:34.777 ServerApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-15 19:47:34.800 ServerApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-15 19:47:34.863 ServerApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-15 19:47:34.884 ServerApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-15 19:47:34.905 ServerApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-15 19:47:34.932 ServerApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-15 19:47:34.959 ServerApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-15 19:47:34.987 ServerApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-15 19:47:35.052 ServerApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-15 19:47:35.074 ServerApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-15 19:47:35.405 ServerApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 2021-10-15 19:47:35.426 ServerApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+Websocket closed
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[W 2021-10-15 19:48:17.655 ServerApp] Notebook beginners_espanol/02.Data_Preparation_merging.ipynb is not trusted
+[I 2021-10-15 19:48:18.871 ServerApp] Kernel started: 11a91d96-c030-4058-bb73-dc1f09de3f5c
+[I 2021-10-15 19:50:18.488 ServerApp] Saving file at /beginners_espanol/02.Data_Preparation_merging.ipynb
+[W 2021-10-15 19:50:18.489 ServerApp] Notebook beginners_espanol/02.Data_Preparation_merging.ipynb is not trusted
+[I 2021-10-15 20:06:19.809 ServerApp] Saving file at /beginners_espanol/02.Data_Preparation_merging.ipynb
+[W 2021-10-15 20:06:19.809 ServerApp] Notebook beginners_espanol/02.Data_Preparation_merging.ipynb is not trusted
