@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "app.py", line 2, in <module>
+    import predictor
+  File "/home/opc/redbull-analytics-hol/beginners/web/predictor.py", line 42
+    def getproba(driver,constructor)
+                                   ^
+SyntaxError: invalid syntax
